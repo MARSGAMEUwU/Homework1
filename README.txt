@@ -1,0 +1,1 @@
+Папка net10 это search-engine+сервер
